@@ -36,8 +36,8 @@ https://apkpure.com/cn/store/apps/details?id=fr.damongeot.zabbixagent
 
 
 ## 3. agent端配置
-![image](https://res.cloudinary.com/liz/image/upload/v1543397973/Android-devices-monitoring-with-Zabbix/02.webp)
-![image](https://res.cloudinary.com/liz/image/upload/v1543397974/Android-devices-monitoring-with-Zabbix/03.webp)
+![image](https://res.cloudinary.com/liz/image/upload/v1543397973/Android-devices-monitoring-with-Zabbix/002.jpg)
+![image](https://res.cloudinary.com/liz/image/upload/v1543397974/Android-devices-monitoring-with-Zabbix/003.jpg)
 
 #### Service online 
 启动和关闭代理，中开启（ON）/关闭（OFF）  
