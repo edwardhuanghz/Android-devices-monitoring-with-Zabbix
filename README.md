@@ -1,11 +1,4 @@
 # 使用Zabbix监控Android设备
-[toc]
-
-## 0. 测试环境信息
-
-测试机 android box
-
-测试zbx server 10.xxx.xxx.221
 
 
 ## 1. 概述
